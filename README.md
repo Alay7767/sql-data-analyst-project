@@ -1,7 +1,7 @@
 # sql-data-analyst-project
 ## 📊 Data Analytics Project
 
-This repository contains a collection of SQL scripts for data exploration, analytics, and reporting, built using the clean and integrated data prepared in the Data Warehouse and Analytics Project.
+This repository contains a collection of SQL scripts for data exploration, analytics, and reporting, built using the clean and integrated data prepared in the Data Warehouse and Analytics Project [https://github.com/Alay7767/sql-data-warehouse-project.git].
 
 The purpose of this project is to perform analytical queries and generate business insights from the warehouse data, focusing on customer behavior, product performance, and sales trends.
 
