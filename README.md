@@ -25,6 +25,7 @@ Each script focuses on a specific analytical area such as trend analysis, segmen
 ## 🔗 Data Source Reference
 
 All analyses in this project are based on the clean, modeled, and integrated data prepared in the
+
 👉 Data Warehouse and Analytics Project [https://github.com/Alay7767/sql-data-warehouse-project.git]
 
 That project handled:
